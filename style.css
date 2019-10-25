@@ -1,0 +1,40 @@
+
+body{
+  background-color: rgb(43, 47, 50);
+  color: rgb(208, 208, 209);
+}
+
+#inner-container{
+  margin: 0px;
+}
+.main{
+  display: flex;
+  justify-content: center;
+
+}
+.productSearch{
+  width: 85%;
+}
+.title{
+  font-family: Verdana;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(150, 150, 191);
+  margin-top: 80px;
+  margin-bottom: 50px;
+  font-size: 48px;
+}
+.p-tag{
+  text-align: center;
+  margin-bottom: 100px;
+  font-size: 24px;
+}
+.productSearch{
+  background-color: rgb(208, 208, 209);
+  border: 0px solid rgb(208, 208, 209);
+  padding: 15px;
+  font-size: 24px;
+}
+.row{
+  margin-top: 50px;
+}
